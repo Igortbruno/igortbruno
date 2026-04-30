@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Igor Bruno</h1>
 <h3 align="center">Um analista e desenvolvedor de sistemas e softwares</h3>
 
-- 🌱 Atualmente desenvolvo em **HTML, CSS, Javascript e Python**
+- 🌱 Atualmente desenvolvo em **Python, Java, HTML/CSS/Javascript**
 
 - 👨‍💻 Meus projetos estão disponíveis em [https://github.com/Igortbruno](https://github.com/Igortbruno)
 
