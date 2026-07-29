@@ -1,6 +1,6 @@
 # Igor Tavares Bruno
 
-**`Desenvolvedor BackEnd`**
+**`Desenvolvedor Fullstack`**
 
 Me chamo Igor Bruno, tenho 25 anos e sou natural do Ceará. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e me Pós-graduando em Desenvolvimento WEB. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu LinkedIn "[Igor Bruno](www.linkedin.com/in/igor-tavares-bruno)".
 
